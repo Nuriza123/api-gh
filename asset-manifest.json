@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nuriza123/api-gh.git/static/css/main.a338875a.css",
+    "main.js": "/Nuriza123/api-gh.git/static/js/main.f14a0efa.js",
+    "static/js/453.ed3810f9.chunk.js": "/Nuriza123/api-gh.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Nuriza123/api-gh.git/index.html",
+    "main.a338875a.css.map": "/Nuriza123/api-gh.git/static/css/main.a338875a.css.map",
+    "main.f14a0efa.js.map": "/Nuriza123/api-gh.git/static/js/main.f14a0efa.js.map",
+    "453.ed3810f9.chunk.js.map": "/Nuriza123/api-gh.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a338875a.css",
+    "static/js/main.f14a0efa.js"
+  ]
+}
